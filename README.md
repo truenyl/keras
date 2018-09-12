@@ -1,6 +1,6 @@
 ﻿# Keras: Deep Learning for Python
 [![BCH compliance](https://bettercodehub.com/edge/badge/truenyl/keras?branch=master)](https://bettercodehub.com/)
-<!--[![Keras logo](https://s3.amazonaws.com/keras.io/img/keras-logo-medium.png)]--!>
+<!--[![Keras logo](https://s3.amazonaws.com/keras.io/img/keras-logo-medium.png)]-->
 
 [![Build Status](https://travis-ci.org/fchollet/keras.svg?branch=master)](https://travis-ci.org/fchollet/keras)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/fchollet/keras/blob/master/LICENSE)
